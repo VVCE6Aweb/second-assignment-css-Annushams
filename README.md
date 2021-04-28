@@ -1,2 +1,1 @@
-# second-assignment-css-Annushams
-second-assignment-css-Annushams created by GitHub Classroom
+Second Assignment: <a href="https://vvce6aweb.github.io/second-assignment-css-Annushams/">Click here</a>
